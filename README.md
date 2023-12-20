@@ -1,6 +1,8 @@
 ## Full Stack Developer Portfolio
 This is a sample README file for a full stack developer portfolio. The portfolio showcases four projects: a calculator, pastel puzzle, run buddy, and LED wall.
 
+![Portfolio](images/dansportfolio.PNG)
+
 ## Projects
 
 ### 1. Calculator 
@@ -30,3 +32,4 @@ If you have any questions or would like to get in touch, please feel free to rea
 
 Thank you for visiting my full stack developer portfolio!
 
+[Portfolio link] (https://github.com/dann9109/danstella_portfolio)
